@@ -1,6 +1,7 @@
 <div align="center">
 <img width="854" height="300" alt="d0f07ad4-bc88-45db-9bc8-cabdaac3692b-glitch" src="https://github.com/user-attachments/assets/65209e22-b636-4a86-9d37-0ec2f56b372a" />
 </div>
+
 ---
 
 ## Salutations voyageur venue d'ailleurs ! Moi c'est Corentin ! 👋
@@ -124,7 +125,13 @@ En dehors du dev vous avez de forte chance de me retrouver :
 <a href="https://www.linkedin.com/in/corentin-courtine-30b5771b0/">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-  
+<a href="https://www.twitch.tv/reylen_">
+  <img src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white">
+</a>
+<a href="https://x.com/reylenblader">
+ <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white">
+</a>
+
 ---
 
 ## Crédit : 
