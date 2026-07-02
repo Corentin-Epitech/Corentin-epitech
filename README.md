@@ -121,7 +121,7 @@ En dehors du dev vous avez de forte chance de me retrouver :
 ---
 
 ## Me trouver :
-
+<div align="center">
 <a href="https://www.linkedin.com/in/corentin-courtine-30b5771b0/">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
@@ -131,6 +131,7 @@ En dehors du dev vous avez de forte chance de me retrouver :
 <a href="https://x.com/reylenblader">
  <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white">
 </a>
+</div>
 
 ---
 
