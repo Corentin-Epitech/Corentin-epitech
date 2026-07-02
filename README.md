@@ -1,6 +1,42 @@
-## Salutations voyageur venue d'ailleurs !  👋
+---
 
-# Qui suis-je? 
+## Salutations voyageur venue d'ailleurs ! Moi c'est Corentin ! 👋
+
+
+---
+
+## Stack actuelle :
+
+---
+
+## Ce que je fait :
+
+---
+
+## Projet scolaire : 
+
+---
+
+## Projet perso :
+
+---
+
+## En dehors du dev :
+
+---
+
+## Github Activity
+
+---
+
+## Me trouver :
+
+---
+
+## Crédit : 
+
+
+---
 
 <!--
 **Corentin-Epitech/Corentin-epitech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
