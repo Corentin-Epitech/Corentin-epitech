@@ -6,7 +6,7 @@ Développeur web full-stack, avec une préférence pour le back-end, je suis act
 
 Avant de me réorienter vers le développement, j’ai exercé plusieurs métiers alimentaires qui m’ont permis de gagner en rigueur, en adaptabilité et en compréhension des besoins clients. Ces expériences m’ont appris à analyser les usages quotidiens des outils, à identifier les problématiques rencontrées sur le terrain et à proposer des solutions concrètes et pertinentes.
 
-Aujourd’hui, je reviens vers un domaine qui me passionne depuis toujours : le développement informatique. À travers le web, je souhaite continuer à progresser techniquement, développer des applications utiles et, à terme, me rapprocher de mon rêve : devenir développeur de jeux vidéo.
+Aujourd’hui, je reviens vers un domaine qui me passionne depuis toujours, le développement informatique. À travers le web, je souhaite continuer à progresser techniquement, développer des applications utiles et, à terme, me rapprocher de mon rêve devenir développeur de jeux vidéo.
 
 ---
 
@@ -130,8 +130,8 @@ Image de profil réalisé par les très talentueuse :
   <a href="https://ryushi.carrd.co/">
     <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/2a93c7e3-0271-4cbd-811a-69dc40749eab" />
   </a>
-  <a>
-    <p>Ezra</p>
+  <a href="https://vgen.co/Rainbow_Paanda">
+    <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/bf2c081b-4865-49f7-9fd2-59edb1b126a4" />
   </a>
 </div>
 
