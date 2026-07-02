@@ -69,7 +69,7 @@ Persona est un agrégateur d’actualités basé sur l’IA, personnalisable et 
 adaptable.
 
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Qwen](https://img.shields.io/badge/Qwen-6950EF?style=for-the-badge&logo=qwen&logoColor=white)
 ---
 
 ## Projet perso :
