@@ -1,8 +1,6 @@
 <div align="center">
-  <img width="854" height="300" alt="image" src="https://github.com/user-attachments/assets/c1be7b36-38f7-4d51-9cd9-7eda1c9f9461" />
+<img width="854" height="300" alt="d0f07ad4-bc88-45db-9bc8-cabdaac3692b-glitch" src="https://github.com/user-attachments/assets/65209e22-b636-4a86-9d37-0ec2f56b372a" />
 </div>
-
-
 ---
 
 ## Salutations voyageur venue d'ailleurs ! Moi c'est Corentin ! 👋
