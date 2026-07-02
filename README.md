@@ -54,9 +54,9 @@ Aujourd’hui, je reviens vers un domaine qui me passionne depuis toujours, le d
   <td>Dev Ops</td>
 </tr>
 <tr>
-  <td>Mise en place d'une interface</td>
+  <td>UI/UX design, Responsiveness, Connection avec BackEnd </td>
   <td>Création d'API restfull, gestion de l'authentications et des sessions et communications avec les DB </td>
-  <td>Encore débutant mais principalement le game design et je m'éduque petit à petit game dev</td>
+  <td>Encore débutant mais principalement le game design et je m'éduque petit à petit en game dev</td>
   <td>Mise en place CI/CD , test unitaire, test fonctionelle</td>
 </tr>
 
