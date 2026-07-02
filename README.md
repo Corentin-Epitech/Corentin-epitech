@@ -1,3 +1,8 @@
+<div align="center">
+  <img width="854" height="300" alt="image" src="https://github.com/user-attachments/assets/c1be7b36-38f7-4d51-9cd9-7eda1c9f9461" />
+</div>
+
+
 ---
 
 ## Salutations voyageur venue d'ailleurs ! Moi c'est Corentin ! 👋
@@ -118,8 +123,10 @@ En dehors du dev vous avez de forte chance de me retrouver :
 
 ## Me trouver :
 
-
-
+<a href="https://www.linkedin.com/in/corentin-courtine-30b5771b0/">
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+  
 ---
 
 ## Crédit : 
