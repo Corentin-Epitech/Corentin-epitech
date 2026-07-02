@@ -2,15 +2,17 @@
 
 ## Salutations voyageur venue d'ailleurs ! Moi c'est Corentin ! 👋
 
-Développeur Web Full-stack , avec une préférence pour le back-end, actuellement en formation a la WEB@CADEMIE de epitech. Je suis actuellement en recherche d'une alternance de 14 mois pour septembre 2026 !
+Développeur web full-stack, avec une préférence pour le back-end, je suis actuellement en formation à la Web@cadémie by Epitech. Je recherche une alternance de 14 mois à partir de septembre 2026 afin de poursuivre ma montée en compétences et de contribuer concrètement à des projets web.
 
-Avant d'être développeur je suis passé par de nombreux travail alimentaire qui m'ont permis de me forger et de mieux comprendre les attendes de différent client par rapport au outils qu'ils utiliseront au quotidien. Me donnant ainsi une certaine expertise et force de propositions pour répondre à différente problématique pouvant être rencontrer
+Avant de me réorienter vers le développement, j’ai exercé plusieurs métiers alimentaires qui m’ont permis de gagner en rigueur, en adaptabilité et en compréhension des besoins clients. Ces expériences m’ont appris à analyser les usages quotidiens des outils, à identifier les problématiques rencontrées sur le terrain et à proposer des solutions concrètes et pertinentes.
+
+Aujourd’hui, je reviens vers un domaine qui me passionne depuis toujours : le développement informatique. À travers le web, je souhaite continuer à progresser techniquement, développer des applications utiles et, à terme, me rapprocher de mon rêve : devenir développeur de jeux vidéo.
 
 ---
 
 ## Stack actuelle :
 
-### FrontEnd
+### FrontEnd :
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -20,7 +22,7 @@ Avant d'être développeur je suis passé par de nombreux travail alimentaire qu
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-### BackEnd
+### BackEnd :
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white)
@@ -28,15 +30,15 @@ Avant d'être développeur je suis passé par de nombreux travail alimentaire qu
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-### DataBase 
+### DataBase :
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-### GameDev
+### GameDev :
 ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
 ![GDScript](https://img.shields.io/badge/GDScript-%2374267B.svg?style=for-the-badge&logo=godotengine&logoColor=white)
 
-### DevOps 
+### DevOps :
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
@@ -84,7 +86,7 @@ Projet personnel d'un dungeon crawler réalisé sous godot. En phase de planific
 
 ### Idle game : 
 
-Projet personnel en groupe. 
+Projet perso en groupe d'idle game. 
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
@@ -102,7 +104,6 @@ En dehors du dev vous avez de forte chance de me retrouver :
 - Chasser du monstre sur n'importe quelle monster hunter du moment
 - Rejouer une énième fois à mon Final Fantasy préféré
 
-
 ---
 
 ## Github Activity
@@ -112,7 +113,6 @@ En dehors du dev vous avez de forte chance de me retrouver :
 <img src="https://streak-stats.demolab.com?user=Corentin-Epitech&theme=highcontrast&hide_border=true)](https://git.io/streak-stats"/>
 
 </div>
-
 
 ---
 
@@ -134,8 +134,6 @@ Image de profil réalisé par les très talentueuse :
     <p>Ezra</p>
   </a>
 </div>
-
-
 
 ---
 
